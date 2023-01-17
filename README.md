@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science<br>🌱 I’m learning Java with DSA<br>🤝 I’m eager to learn new things<br>⚡ Fun fact I loves Cricket<br><br>
+🔭 I’m currently a Computer Science Student<br>🌱 I’m learning Java with DSA<br>🤝 I’m eager to learn new things<br>⚡ Fun fact I loves Cricket<br><br>
 
 
 ## 🌐 Socials:
