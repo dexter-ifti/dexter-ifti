@@ -1,4 +1,4 @@
-                                                   # 💫 Hi 👋, I'm Taha Iftikhar:
+                                                   # 💫 𝓗𝓲 👋, 𝓘'𝓶 𝓣𝓪𝓱𝓪 𝓘𝓯𝓽𝓲𝓴𝓱𝓪𝓻
 🔭 I’m currently a Computer Science Student<br>🌱 I’m learning Java with DSA<br>🤝 I’m eager to learn new things<br>⚡ Fun fact I Am a Cricket Fan<br>💞️ I’m looking to collaborate on any projects in which i will be helpful and would get a chance to learn.
 
 
