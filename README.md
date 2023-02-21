@@ -1,5 +1,5 @@
                                                             # 💫 𝓗𝓲 👋, 𝓘'𝓶 𝓣𝓪𝓱𝓪 𝓘𝓯𝓽𝓲𝓴𝓱𝓪𝓻
-                                                                                                                                                                            ![05a168c4a0fc699de7edbf94cde8de96](https://user-images.githubusercontent.com/116361491/219997089-60c8aa7a-d3ec-48e6-9f27-0e61cd2fe87b.gif)             
+            
 🔭 I’m currently a Computer Science Student<br>🌱 I’m learning Java with DSA<br>🤝 I’m eager to learn new things<br>⚡ Fun fact I Am a Cricket Fan<br>💞️ I’m looking to collaborate on any projects in which i will be helpful and would get a chance to learn.
 
 
