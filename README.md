@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/dexter-ifti/dexter-ifti/blob/main/giphy.gif)
 
 <h1 align="center">💫 𝓗𝓲 👋, 𝓘'𝓶 𝓣𝓪𝓱𝓪 𝓘𝓯𝓽𝓲𝓴𝓱𝓪𝓻!</h1>                                                         
 <img align="right" alt="Trooper" width="250" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
