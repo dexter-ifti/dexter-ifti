@@ -21,12 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=dexter-ifti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## LeetCode Profile
-![Leetcode Stats](https://leetcard.jacoblin.cool/tahaiftikhar8)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://leetcard.jacoblin.cool/tahaiftikhar8?ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dexter-ifti&icon=0&color=0)](https://visitcount.itsvg.in)
