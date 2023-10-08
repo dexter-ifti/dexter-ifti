@@ -20,6 +20,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dexter-ifti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## HacktoberFest2023 Badges
+[![An image of @dexterifti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dexterifti)](https://holopin.io/@dexterifti)
+
 ## LeetCode Profile
 ![](https://leetcard.jacoblin.cool/tahaiftikhar8?ext=heatmap)
 
