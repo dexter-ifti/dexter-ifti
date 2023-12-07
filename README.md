@@ -24,7 +24,7 @@
 [![An image of @dexterifti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dexterifti)](https://holopin.io/@dexterifti)
 
 ## LeetCode Profile
-![](https://leetcard.jacoblin.cool/tahaiftikhar8?ext=heatmap)
+![](https://leetcard.jacoblin.cool/ifti_taha?ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dexter-ifti&icon=0&color=0)](https://visitcount.itsvg.in)
