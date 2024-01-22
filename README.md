@@ -3,7 +3,7 @@
 <h1 align="center">💫 𝓗𝓲 👋, 𝓘'𝓶 𝓣𝓪𝓱𝓪 𝓘𝓯𝓽𝓲𝓴𝓱𝓪𝓻!</h1>                                                         
 <img align="right" alt="Trooper" width="250" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
 
-🔭 I’m currently a Computer Science Student<br>🌱DSA, CP < MERN STACK <br>🤝 I’m eager to learn new things<br>⚡ Fun fact I Am a Cricket Fan<br>💞️ I’m looking to collaborate on any projects in which i will be helpful and would get a chance to learn.
+🔭 I’m currently a Computer Science Student<br>🌱DSA, CP , MERN STACK <br>🤝 I’m eager to learn new things<br>⚡ Fun fact I Am a Cricket Fan<br>💞️ I’m looking to collaborate on any projects in which i will be helpful and would get a chance to learn.
 
 <!-- profile views -->
 [![](https://visitcount.itsvg.in/api?id=dexter-ifti&icon=0&color=0)](https://visitcount.itsvg.in)
