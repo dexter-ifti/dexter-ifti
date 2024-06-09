@@ -10,7 +10,7 @@
   
 ## 🌐 Socials:
 
-- 📫 How to reach me **tahaiftikhar@gmail.com**
+- 📫 How to reach me **tahaiftikhar8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
