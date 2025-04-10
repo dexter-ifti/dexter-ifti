@@ -12,7 +12,6 @@
 ```javascript
 {
   languages: ['JavaScript', 'TypeScript', 'Java', 'C'],
-  frontend: ['React.js', 'Next.js', 'TurboRepo', 'Recoil', 'Tailwind CSS'],
   backend: ['Node.js', 'Express.js', 'Hono', 'Prisma'],
   databases: ['MongoDB', 'PostgreSQL'],
   tools: ['Git', 'Docker', 'AWS', 'Cloudflare'],
