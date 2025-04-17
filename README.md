@@ -66,4 +66,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=dexter-ifti&icon=0&color=0" alt="Profile Views"/>
 </p>
-<!-- GitAds-Verify: TI9B9A4N5TOEGEA9BVADTG5V3IJJKBKG -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dexter-ifti/dexter-ifti@github)](https://gitads.dev/v1/ad-track?source=dexter-ifti/dexter-ifti@github)
+
+
