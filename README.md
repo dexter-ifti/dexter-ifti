@@ -3,6 +3,8 @@
 ###
 
 <div align="center">
+  <a href="https://ifti-taha.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
   <a href="https://x.com/DexterIfti" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -54,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexter-ifti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dexter-ifti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dexter-ifti&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexter-ifti&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -70,7 +72,7 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dexter-ifti&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=dexter-ifti&&style=flat-square" alt="Profile Views"/>
 </p>
 
 ## GitAds Sponsored
