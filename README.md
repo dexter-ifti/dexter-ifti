@@ -6,7 +6,7 @@
   <a href="https://ifti-taha.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
   <a href="https://x.com/DexterIfti" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="30" alt="twitter logo"  />
   </a>
   <a href="mailto:tahaiftikhar8@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </div>
+
+> Full-stack AI engineer with a passion for AI tooling, backend systems, and competitive programming. CSE grad who loves shipping things that actually work.
 
 ###
 
@@ -52,11 +54,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare logo"  />
 </div>
 
-###
+## Current Projects
+
+- 📊 **[Streaker](https://github.com/dexter-ifti/streaker)** – A habit tracking full stack web app with Gamification layer.
+- 🧠 **[Tiny-Queue](https://github.com/dexter-ifti/tiny-queue)** – Redis based job processing queue system.
+- 🧾 **[Mini-cursor](https://github.com/dexter-ifti/mini-cursor)** – terminal-based AI coding assistant designed to streamline full-stack project development.
+- 🎯 **[PayPulse](https://github.com/dexter-ifti/paypulse)** – A full stack web app paytm clone.
+- 📹 **[Mini-Profitpath](https://github.com//dexter-ifti/mini-profitpath)** – A backend system that detects profitable arbitrage opportunities across Amazon EU/UK marketplaces.
+- 👗 **[Pencraft](https://github.com/dexter-ifti/Pencraft)** – A Full Stack blogging website.
+
+## Github Activity 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexter-ifti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dexter-ifti&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph"  />
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexter-ifti&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexter-ifti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexter-ifti&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
